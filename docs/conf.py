@@ -19,13 +19,6 @@ extensions = [
     'sphinx_comments'
 ]
 
-comments_config = {
-    'utterances': {
-        'repo': 'jurandysoares/aprendendo-elixir',
-        'optional': 'config'
-    }
-}
-
 templates_path = ['_templates']
 exclude_patterns = []
 
@@ -34,6 +27,6 @@ language = 'pt_BR'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'furo'
+html_theme = 'sphinx_rtd_theme'
 html_title = html_short_title = project
 html_static_path = ['_static']
