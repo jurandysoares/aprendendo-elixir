@@ -1,4 +1,4 @@
-# 25 -- ELIXIR - 24 - OTP GenServer
+# 24 - OTP GenServer
 
 <iframe 
         width="560" 

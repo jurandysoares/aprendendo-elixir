@@ -1,4 +1,4 @@
-# 29 -- ELIXIR - 28 -  OTP Distribuição - Consolidando Conceitos
+# 28 -  OTP Distribuição - Consolidando Conceitos
 
 <iframe 
         width="560" 

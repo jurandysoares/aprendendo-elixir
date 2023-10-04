@@ -1,4 +1,4 @@
-# 10 -- ELIXIR - 10 - Operador Pipe
+# 10 - Operador Pipe
 
 <iframe 
         width="560" 

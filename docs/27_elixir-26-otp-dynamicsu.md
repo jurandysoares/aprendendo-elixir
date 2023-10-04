@@ -1,4 +1,4 @@
-# 27 -- ELIXIR - 26 - OTP DynamicSupervisor
+# 26 - OTP DynamicSupervisor
 
 <iframe 
         width="560" 

@@ -1,4 +1,4 @@
-# 28 -- ELIXIR - 27 - OTP Distribuição - Conceitos Básicos
+# 27 - OTP Distribuição - Conceitos Básicos
 
 <iframe 
         width="560" 

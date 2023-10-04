@@ -1,4 +1,4 @@
-# 36 -- ELIXIR - 35 - Protocolos e polimorfismo
+# 35 - Protocolos e polimorfismo
 
 <iframe 
         width="560" 

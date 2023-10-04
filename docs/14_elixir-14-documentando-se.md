@@ -1,4 +1,4 @@
-# 14 -- ELIXIR - 14 - Documentando seu código
+# 14 - Documentando seu código
 
 <iframe 
         width="560" 

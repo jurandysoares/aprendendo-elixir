@@ -1,4 +1,4 @@
-# 07 -- ELIXIR - 7 - Variáveis e Pattern Matching
+# 7 - Variáveis e Pattern Matching
 
 <iframe 
         width="560" 

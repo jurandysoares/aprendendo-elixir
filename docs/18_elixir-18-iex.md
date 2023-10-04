@@ -1,4 +1,4 @@
-# 18 -- ELIXIR - 18 - IEx Helpers
+# 18 - IEx Helpers
 
 <iframe 
         width="560" 

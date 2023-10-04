@@ -1,4 +1,4 @@
-# 20 -- ELIXIR - 20 - Interoperabilidade com Erlang
+# 20 - Interoperabilidade com Erlang
 
 <iframe 
         width="560" 

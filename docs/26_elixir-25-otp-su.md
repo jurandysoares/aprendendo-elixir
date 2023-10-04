@@ -1,4 +1,4 @@
-# 26 -- ELIXIR - 25  - OTP Supervisor
+# 25  - OTP Supervisor
 
 <iframe 
         width="560" 

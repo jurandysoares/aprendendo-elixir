@@ -1,4 +1,4 @@
-# 12 -- ELIXIR - 12 - usando o Mix
+# 12 - usando o Mix
 
 <iframe 
         width="560" 

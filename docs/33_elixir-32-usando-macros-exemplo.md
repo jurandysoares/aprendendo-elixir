@@ -1,4 +1,4 @@
-# 33 -- ELIXIR - 32 - Usando Macros | Exemplo Prático
+# 32 - Usando Macros | Exemplo Prático
 
 <iframe 
         width="560" 

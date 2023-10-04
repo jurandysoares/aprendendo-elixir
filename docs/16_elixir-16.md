@@ -1,4 +1,4 @@
-# 16 -- ELIXIR - 16 - Strings
+# 16 - Strings
 
 <iframe 
         width="560" 

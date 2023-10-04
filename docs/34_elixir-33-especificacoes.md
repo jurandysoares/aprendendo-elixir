@@ -1,4 +1,4 @@
-# 34 -- ELIXIR - 33 - Especificações e Tipos
+# 33 - Especificações e Tipos
 
 <iframe 
         width="560" 

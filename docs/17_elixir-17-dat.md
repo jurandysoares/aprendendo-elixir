@@ -1,4 +1,4 @@
-# 17 -- ELIXIR - 17 - Data e Hora
+# 17 - Data e Hora
 
 <iframe 
         width="560" 

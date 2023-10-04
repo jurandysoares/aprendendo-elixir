@@ -1,4 +1,4 @@
-# 30 -- ELIXIR - 29 - Exemplo prático: Criando uma aplicação distribuída rodando em Docker.
+# 29 - Exemplo prático: Criando uma aplicação distribuída rodando em Docker.
 
 <iframe 
         width="560" 

@@ -1,4 +1,4 @@
-# 01 -- ELIXIR - 1 - Tipos Básicos
+# 1 - Tipos Básicos
 
 <iframe 
         width="560" 

@@ -1,4 +1,4 @@
-# 15 -- ELIXIR - 15 - Comprehensions
+# 15 - Comprehensions
 
 <iframe 
         width="560" 

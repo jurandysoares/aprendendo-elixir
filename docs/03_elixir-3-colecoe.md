@@ -1,4 +1,4 @@
-# 03 -- ELIXIR - 3 - Coleções: Listas
+# 3 - Coleções: Listas
 
 <iframe 
         width="560" 

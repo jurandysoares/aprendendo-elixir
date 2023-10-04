@@ -1,4 +1,4 @@
-# 13 -- ELIXIR - 13 - Conhecendo Sigils
+# 13 - Conhecendo Sigils
 
 <iframe 
         width="560" 

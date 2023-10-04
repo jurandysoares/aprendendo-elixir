@@ -1,4 +1,4 @@
-# 06 -- ELIXIR - 6 - Usando funções em enumeráveis
+# 6 - Usando funções em enumeráveis
 
 <iframe 
         width="560" 

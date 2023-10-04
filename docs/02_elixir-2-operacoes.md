@@ -1,4 +1,4 @@
-# 02 -- ELIXIR - 2 - Operações básicas
+# 2 - Operações básicas
 
 <iframe 
         width="560" 

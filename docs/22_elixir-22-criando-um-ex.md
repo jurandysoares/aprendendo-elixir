@@ -1,4 +1,4 @@
-# 22 -- ELIXIR - 22 - Criando um executável
+# 22 - Criando um executável
 
 <iframe 
         width="560" 
